@@ -1,0 +1,19 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$320000$wjLDYLYhajMF9iDXWHiMSJ$71hC7sVFrT4KDiHeSVL4b0UYbBJhq1fVfD791SIryj4=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "anhln",
+        "first_name": "",
+        "last_name": "",
+        "email": "anhlnster@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-04-24T13:21:52.701Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
